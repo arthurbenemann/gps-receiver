@@ -135,7 +135,7 @@ blocks:
     alias: ''
     append: 'False'
     comment: ''
-    file: '''./samples-'' + timestamp'
+    file: '''./samples-g11_24_62-front-hackrf-DDC'' + timestamp'
     type: complex
     unbuffered: 'False'
     vlen: '1'
@@ -252,7 +252,7 @@ blocks:
     ant8: ''
     ant9: ''
     args: '""'
-    bb_gain0: '48'
+    bb_gain0: '62'
     bb_gain1: '20'
     bb_gain10: '20'
     bb_gain11: '20'
